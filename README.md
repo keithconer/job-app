@@ -96,3 +96,13 @@ To integrate with RapidAPI for job listings, follow these steps:
        .then(data => console.log(data))
        .catch(error => console.error('Error fetching jobs:', error));
      ```
+## License 📜
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Summary of the MIT License:
+- You are free to use, modify, and distribute this software.
+- You must include the original copyright notice and license in any copies or substantial portions of the software.
+- The software is provided "as is", without warranty of any kind.
+
+For more detailed information, please refer to the full license text in the LICENSE file.
