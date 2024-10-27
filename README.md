@@ -98,11 +98,11 @@ To integrate with RapidAPI for job listings, follow these steps:
      ```
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE.md) file for details.
 
-### Summary of the MIT License:
+### Summary of the Apache License 2.0:
 - You are free to use, modify, and distribute this software.
-- You must include the original copyright notice and license in any copies or substantial portions of the software.
+- You must include a copy of the license when redistributing the software.
 - The software is provided "as is", without warranty of any kind.
 
-For more detailed information, please refer to the full license text in the LICENSE file.
+For more detailed information, please refer to the full license text in the LICENSE.md file.
